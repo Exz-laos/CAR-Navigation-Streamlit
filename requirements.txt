@@ -1,0 +1,7 @@
+streamlit
+folium
+streamlit-folium
+requests
+configparser
+polyline
+pandas
